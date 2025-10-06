@@ -1,6 +1,6 @@
 console.log("mostafa is the best person ever");
 
-const chef = "mostafa solgi 
+const chef = "mostafa solgi" 
 
 chef.foreach( agha => {
    
@@ -8,15 +8,13 @@ chef.foreach( agha => {
 
    agha.innertext="oyeee"
 
- }}
-  
+ })}
+)
 
 function oyee (loch){
 
    loch.innerHTML= "😊"
-
-
-  
+   
 }
 
 oyee()
